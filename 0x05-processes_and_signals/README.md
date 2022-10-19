@@ -21,7 +21,7 @@
 
 ### Environment
 * Language: Bash scripts
-* OS: Ubuntu 14.04 LTS
+* OS: Ubuntu 20.04 LTS
 * Executable: ```chmod +x [filename]```; run with ```./[filename]```
 * Style guidelines: [Shellcheck](https://github.com/koalaman/shellcheck)
 
