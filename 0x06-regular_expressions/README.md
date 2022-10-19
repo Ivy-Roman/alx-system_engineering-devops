@@ -16,4 +16,4 @@ puts ARGV[0].scan(/ regex here /).join
 
 ---
 ### Authors
-Ivie Osoiye [Ivy Roman](theromanivy.com)
+Ivie Osoiye [(Ivy Roman)](http://theromanivy.com)
